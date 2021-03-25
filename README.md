@@ -1,2 +1,2 @@
 # aws-rest
-Collection of notes on representational state transfer (REST) architectures, mainly in the context of cloud web services.
+Systems Development Engineer (SysDE) core, representational state transfer (REST) architectures. 
